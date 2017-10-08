@@ -299,7 +299,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				EMBEDDED_CONTENT_CONTAINS_SWIFT = NO;
-				FRAMEWORK_SEARCH_PATHS = "$(SRCROOT)/../../../ios/ImageCropPickerSDK";
+				FRAMEWORK_SEARCH_PATHS = "$(SRCROOT)/../../../ios/Frameworks";
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)/../../react-native/React/**",
@@ -320,7 +320,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				EMBEDDED_CONTENT_CONTAINS_SWIFT = NO;
-				FRAMEWORK_SEARCH_PATHS = "$(SRCROOT)/../../../ios/ImageCropPickerSDK";
+				FRAMEWORK_SEARCH_PATHS = "$(SRCROOT)/../../../ios/Frameworks";
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)/../../react-native/React/**",
